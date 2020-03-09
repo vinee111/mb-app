@@ -25,7 +25,7 @@ SECRET_KEY = 'tkt57@_el=8mk-9()$^*wv&m9b+x#b#c)b1z0o*z38f*d2glu^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
